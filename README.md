@@ -1,2 +1,2 @@
 # graphQL-server
-Example of a graphQL server
+GraphQL server for testing purpose
